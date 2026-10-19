@@ -1,0 +1,14 @@
+# Markdowns de estudo (somente o README vai para o repositório)
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
